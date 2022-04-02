@@ -7,4 +7,4 @@ The deployment was done through [Fleek](https://fleek.co), made to optimize the 
 
 <br />
 
-Check out the [Website](#)
+Check out the [Website](https://showcasenftmarketplace.on.fleek.co)
